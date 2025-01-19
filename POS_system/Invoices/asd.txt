@@ -1,9 +1,0 @@
-	Tax invoice
-Qty	Item		Amount
-1	Bread		R20.00
-1	Polony		R20.00
-	====================
-	Subtotal:	R34.00
-	VAT(15%):	R6.00
-	====================
-	Total:		R40.00
