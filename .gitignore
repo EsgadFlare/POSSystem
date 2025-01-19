@@ -1,11 +1,11 @@
 # Ignore all files in the invoices folder
-Invoices/*
+POS_system/Invoices/*
 
 # But do not ignore the invoices folder itself
-!Invoices/
+!POS_system/Invoices/
 
 # If you want to allow specific files, add exceptions (optional)
-!invoices/NewInvoicesWillAppearHere
+!POS_system/invoices/NewInvoicesWillAppearHere
 
 
 
