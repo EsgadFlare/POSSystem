@@ -1,0 +1,44 @@
+{
+  "groceryList": [
+  {
+    "name": "Apple",
+    "category": "Fruit",
+    "unitPrice": 5
+  },
+  {
+    "name": "Milk",
+    "category": "Dairy",
+    "unitPrice": 25
+  },
+  {
+    "name": "Bread",
+    "category": "Bakery",
+    "unitPrice": 20
+  },
+  {
+    "name": "Polony",
+    "category": "Meat",
+    "unitPrice": 20
+  },
+  {
+    "name": "Carrot",
+    "category": "Vegetable",
+    "unitPrice": 10
+  },
+  {
+    "name": "Cheese",
+    "category": "Dairy",
+    "unitPrice": 80
+  },
+  {
+    "name": "Cigars",
+    "category": "Tabbacco",
+    "unitPrice": 80
+  }, 
+  {
+    "name": "Beef",
+    "category": "Meat",
+    "unitPrice": 105
+  }]
+}
+  

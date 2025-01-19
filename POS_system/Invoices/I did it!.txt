@@ -1,0 +1,10 @@
+	Tax invoice
+Qty	Item		Amount
+3	Milk		R75.00
+4	Bread		R80.00
+3	Polony		R60.00
+	====================
+	Subtotal:	R182.75
+	VAT(15%):	R32.25
+	====================
+	Total:		R215.00

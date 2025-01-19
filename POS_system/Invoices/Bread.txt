@@ -1,0 +1,8 @@
+	Tax invoice
+Qty	Item		Amount
+4	Bread		R80.00
+	====================
+	Subtotal:	R68.00
+	VAT(15%):	R12.00
+	====================
+	Total:		R80.00

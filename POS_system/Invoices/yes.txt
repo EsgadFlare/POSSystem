@@ -1,0 +1,9 @@
+	Tax invoice
+Qty	Item		Amount
+3	Bread		R60.00
+9	Milk		R225.00
+	====================
+	Subtotal:	R242.25
+	VAT(15%):	R42.75
+	====================
+	Total:		R285.00
